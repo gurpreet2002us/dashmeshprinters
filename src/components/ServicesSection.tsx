@@ -103,10 +103,10 @@ const ServicesSection = () => {
                   <p className="text-muted-foreground mb-4">
                     {service.description}
                   </p>
-                  <div className="flex items-center text-primary font-medium group-hover:text-accent transition-colors">
+                  {/* <div className="flex items-center text-primary font-medium group-hover:text-accent transition-colors">
                     <span className="mr-2">Learn More</span>
                     <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
-                  </div>
+                  </div> */}
                 </div>
               </Link>
             );

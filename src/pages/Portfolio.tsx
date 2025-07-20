@@ -173,7 +173,7 @@ const Portfolio = () => {
                   <p className="text-muted-foreground mb-3">
                     {item.description}
                   </p>
-                  <div className="flex items-center justify-between">
+                  {/* <div className="flex items-center justify-between">
                     <div>
                       <p className="text-sm font-medium text-accent">
                         {item.client}
@@ -183,7 +183,7 @@ const Portfolio = () => {
                       <span className="mr-2 text-sm">View Details</span>
                       <ArrowRight className="h-4 w-4 group-hover:translate-x-1 transition-transform" />
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             ))}
