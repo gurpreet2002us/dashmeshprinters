@@ -259,13 +259,16 @@ const Contact = () => {
           </div>
           
           <div className="rounded-2xl overflow-hidden shadow-lg">
-            <div className="aspect-video bg-gray-200 flex items-center justify-center">
-              <div className="text-center">
-                <MapPin className="h-16 w-16 text-gray-400 mx-auto mb-4" />
-                <p className="text-gray-600 font-medium">Interactive Map</p>
-                <p className="text-gray-500">Gole Market, Behind Gurudwara, Rudrapur, Uttarakhand - 263153</p>
-              </div>
-            </div>
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3490.4212529838155!2d79.395941!3d28.974885699999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a07f711ba99c85%3A0xe58bf445ca439c15!2sDashmesh%20Printers%20and%20Card%20Gallery!5e0!3m2!1sen!2sin!4v1753004512214!5m2!1sen!2sin"
+              width="100%"
+              height="450"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+              title="Dashmesh Printers Location"
+            ></iframe>
           </div>
         </div>
       </section>

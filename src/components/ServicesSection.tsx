@@ -130,7 +130,7 @@ const ServicesSection = () => {
                 </Button>
               </Link>
               <Link to="/services">
-                <Button variant="outline" className="border-white text-white hover:bg-white hover:text-primary px-8 py-4 rounded-xl font-semibold">
+                <Button variant="outline" className="border-white text-black hover:bg-white hover:text-primary px-8 py-4 rounded-xl font-semibold">
                   View All Services
                 </Button>
               </Link>

@@ -76,7 +76,7 @@ const About = () => {
               </h2>
               <div className="space-y-6 text-muted-foreground">
                 <p className="text-lg">
-                  Founded in 2009, Dashmesh Printers and Card Gallery began as a small family business with a simple mission: 
+                  Founded in 2008, Dashmesh Printers and Card Gallery began as a small family business with a simple mission: 
                   to provide high-quality printing services that bring people's creative visions to life.
                 </p>
                 <p className="text-lg">

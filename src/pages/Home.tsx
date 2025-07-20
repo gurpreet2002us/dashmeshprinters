@@ -150,7 +150,7 @@ const Home = () => {
               </Button>
             </Link>
             <Link to="/contact">
-              <Button variant="outline" className="border-white text-white hover:bg-white hover:text-primary px-8 py-4 rounded-xl font-semibold text-lg">
+              <Button variant="outline" className="border-white text-black hover:bg-white hover:text-primary px-8 py-4 rounded-xl font-semibold text-lg">
                 Contact Us
               </Button>
             </Link>
