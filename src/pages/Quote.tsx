@@ -50,7 +50,7 @@ const Quote = () => {
         to_email: 'dashmeshprinters99@gmail.com'
       };
       
-      // Send email using EmailJS with explicit parameters
+      // Send email using EmailJS with explicit parameter
       await emailjs.send(
         'service_5rureww',
         'template_h2riu18',
