@@ -80,7 +80,7 @@ const Footer = () => {
         <div className="container-max">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 Dashmesh Printers and Card Gallery. All rights reserved. Desinged by <a href="https://imaginesoftech.in" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Imagine Softech</a>
+              © 2024 Dashmesh Printers and Card Gallery. All rights reserved. Desinged by <a className="text-primary hover:underline" href="https://imaginesoftech.com" target="_blank" rel="noopener noreferrer">Imagine Softech</a>
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/privacy-policy" className="text-gray-400 hover:text-white text-sm transition-colors">
