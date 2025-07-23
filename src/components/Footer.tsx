@@ -39,7 +39,7 @@ const Footer = () => {
                 <li><Link to="/" className="text-gray-300 hover:text-white transition-colors">Home</Link></li>
                 <li><Link to="/about" className="text-gray-300 hover:text-white transition-colors">About Us</Link></li>
                 <li><Link to="/services" className="text-gray-300 hover:text-white transition-colors">Services</Link></li>
-                <li><Link to="/portfolio" className="text-gray-300 hover:text-white transition-colors">Portfolio</Link></li>
+                <li><Link to="/gallery" className="text-gray-300 hover:text-white transition-colors">Gallery</Link></li>
                 <li><Link to="/contact" className="text-gray-300 hover:text-white transition-colors">Contact</Link></li>
                 <li><Link to="/quote" className="text-gray-300 hover:text-white transition-colors">Get Quote</Link></li>
               </ul>
@@ -80,7 +80,7 @@ const Footer = () => {
         <div className="container-max">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2024 Dashmesh Printers and Card Gallery. All rights reserved.
+              © 2024 Dashmesh Printers and Card Gallery. All rights reserved. Desinged by <a href="https://imaginesoftech.in" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">Imagine Softech</a>
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/privacy-policy" className="text-gray-400 hover:text-white text-sm transition-colors">
