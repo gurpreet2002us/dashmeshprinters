@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 // Import all images from the assets/gallery directory
 import img1 from '@/assets/gallery/IMG-20250722-WA0011.jpg';
 import img2 from '@/assets/gallery/IMG-20250722-WA0012.jpg';
-import img3 from '@/assets/gallery/IMG-20250722-WA0013.jpg';
+//import img3 from '@/assets/gallery/IMG-20250722-WA0013.jpg';
 import img4 from '@/assets/gallery/IMG-20250722-WA0014.jpg';
 import img5 from '@/assets/gallery/IMG-20250722-WA0015.jpg';
 import img6 from '@/assets/gallery/IMG-20250722-WA0016.jpg';
