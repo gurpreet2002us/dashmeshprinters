@@ -23,8 +23,7 @@ import img17 from '@/assets/gallery/visiting cards.png';
 
 const galleryImages = [
   { id: 1, src: img1, alt: 'Gallery Image 1' },
-  { id: 2, src: img2, alt: 'Gallery Image 2' },
-  { id: 3, src: img3, alt: 'Gallery Image 3' },
+  { id: 2, src: img2, alt: 'Gallery Image 2' },  
   { id: 4, src: img4, alt: 'Gallery Image 4' },
   { id: 5, src: img5, alt: 'Gallery Image 5' },
   { id: 6, src: img6, alt: 'Gallery Image 6' },
